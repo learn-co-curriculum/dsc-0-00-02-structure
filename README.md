@@ -15,7 +15,7 @@ Here are the modules, and what you'll be covering:
 
 ## Sections
 
-The instructional content for the first four modules is broken out into a total of 48 sections. Each section is designed to be 8-10 hours of solid work (a long, full "day" of instruction). There are twelve sections in each of the first four modules.
+The instructional content for the first four modules is broken out into a total of 48 sections. Each section is designed to be 10 hours of solid work (a long, full "day" of instruction). There are twelve sections in each of the first four modules.
 
 Here are the first 24 sections of the course - we'll be uploading the others by the end of the year:
 
@@ -85,7 +85,7 @@ The same core curriculum is used for immersive, structured online and self-paced
 * The course will take ~1000 hours of effort to complete
 
 ### For Self Paced, Online Programs
-* Each section should take just over a day to complete
+* Each section should take just over 10 hrs to complete
 * The course will take ~1000 hours of effort to complete
 
 ## A Note About Time Requirements
