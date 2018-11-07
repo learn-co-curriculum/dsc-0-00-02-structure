@@ -80,7 +80,7 @@ The same core curriculum is used for immersive, structured online and self-paced
 * This is a 40 week course
 * Students often work 25+ hr weeks
 * Each module takes 8 weeks to complete
-* Each section should take just over a day to complete (we deploy 4 sections a week)
+* Each section should take just over 10 hrs to complete (we deploy 2 sections a week)
 * End of module projects should be completed in two weeks week (typically ~50 hrs)
 * The course will take ~1000 hours of effort to complete
 
